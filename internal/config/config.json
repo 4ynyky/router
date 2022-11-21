@@ -1,0 +1,12 @@
+{
+    "host" : "localhost",
+    "secret" : "secret",
+    "auth_port" : "1812",
+    "acct_port" : "1813",
+    "auth" : [
+        {
+            "username" : "abon",
+            "password" : "1"
+        }
+    ]
+}
